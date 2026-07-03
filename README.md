@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Developer crafting clean backends & occasionally poking around cybersecurity</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=Building+with+C%23+%26+.NET;Debugging+distributed+systems;Learning+offensive+security;Coffee-powered+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C7B7&center=true&vCenter=true&width=500&lines=Building+with+C%23+%26+.NET;Pondering+the+orb;One+man+army;Non-coffee-powered+developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,13 +23,9 @@
 name: Kedi Kalaj
 role: Fullstack Developer (Backend-leaning)
 currently_learning: Network & Cyber-Security (MSc)
-fun_fact: I enjoy chasing down bugs across distributed services more than I probably should
-philosophy: "Straightforward code, straightforward communication"
 ```
 
-- 🛠️ I build things with **C#, .NET, React** and whatever the problem calls for
-- 🛡️ Slowly leveling up in **OSINT** and **Threat Analysis**
-- ⚡ I like clean APIs, fast queries, and code that doesn't need three re-reads to understand
+
 - 📍 Tirana, Albania
 
 ---
